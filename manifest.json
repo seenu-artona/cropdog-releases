@@ -1,10 +1,10 @@
 {
  "latest": {
-  "version": "0.2.0",
-  "notes": "First release of CropDog for Mac.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.2.0/CropDog-0.2.0-mac-arm64.zip",
-  "size": 141233344,
-  "sha256": "6bf1f966ead636e5956df4863dfd1459da8d7662f4094a37708d2ea34df85694",
-  "published": "2026-09-21T03:49:35.636Z"
+  "version": "0.2.1",
+  "notes": "Much faster cropping.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.2.1/CropDog-0.2.1-mac-arm64.zip",
+  "size": 141237790,
+  "sha256": "09f542ce2f7cf446ca58f6a6246b3e0fb34ba31d650cb0fca003ceec0475a458",
+  "published": "2026-09-21T05:32:23.746Z"
  }
 }

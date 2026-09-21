@@ -1,10 +1,10 @@
 {
  "latest": {
-  "version": "0.2.3",
-  "notes": "Keeps a record of each cropping run for your studio.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.2.3/CropDog-0.2.3-mac-arm64.zip",
-  "size": 141267016,
-  "sha256": "9ec2830240ed8282e8d8cad2a3d225ac1ea90cf5139a90ecc98f3dcd928b06b7",
-  "published": "2026-09-21T17:03:25.907Z"
+  "version": "0.2.4",
+  "notes": "Better crops: the right space above heads, and legs kept whole at the sides.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.2.4/CropDog-0.2.4-mac-arm64.zip",
+  "size": 141279663,
+  "sha256": "47a4b0b6409046191ad2c714932d4725fc2a01e93dfb16717835a0396d6cc0f0",
+  "published": "2026-09-21T23:40:07.230Z"
  }
 }

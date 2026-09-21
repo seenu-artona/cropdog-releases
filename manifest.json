@@ -1,10 +1,10 @@
 {
  "latest": {
-  "version": "0.2.1",
-  "notes": "Much faster cropping.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.2.1/CropDog-0.2.1-mac-arm64.zip",
-  "size": 141237790,
-  "sha256": "09f542ce2f7cf446ca58f6a6246b3e0fb34ba31d650cb0fca003ceec0475a458",
-  "published": "2026-09-21T05:32:23.746Z"
+  "version": "0.2.2",
+  "notes": "Sign in with your studio account.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.2.2/CropDog-0.2.2-mac-arm64.zip",
+  "size": 141263260,
+  "sha256": "2ff71796f19a158ddf20a840cdc699fbb4d1b8b0aa2ce4eb7c3b922193c24459",
+  "published": "2026-09-21T06:25:13.574Z"
  }
 }

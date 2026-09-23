@@ -1,10 +1,10 @@
 {
  "latest": {
-  "version": "0.2.4",
-  "notes": "Better crops: the right space above heads, and legs kept whole at the sides.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.2.4/CropDog-0.2.4-mac-arm64.zip",
-  "size": 141279663,
-  "sha256": "47a4b0b6409046191ad2c714932d4725fc2a01e93dfb16717835a0396d6cc0f0",
-  "published": "2026-09-21T23:40:07.230Z"
+  "version": "0.2.5",
+  "notes": "Better crops for close-ups: long hair and tight framing no longer get skipped. Also much faster.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.2.5/CropDog-0.2.5-mac-arm64.zip",
+  "size": 141294488,
+  "sha256": "beafeccf0551862c9574ceff242a4e4e18e19206dc8cb0b1ea3bb2990d88a877",
+  "published": "2026-09-23T05:15:29.991Z"
  }
 }

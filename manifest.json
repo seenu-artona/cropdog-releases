@@ -1,10 +1,10 @@
 {
  "latest": {
-  "version": "0.2.5",
-  "notes": "Better crops for close-ups: long hair and tight framing no longer get skipped. Also much faster.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.2.5/CropDog-0.2.5-mac-arm64.zip",
-  "size": 141294488,
-  "sha256": "beafeccf0551862c9574ceff242a4e4e18e19206dc8cb0b1ea3bb2990d88a877",
-  "published": "2026-09-23T05:15:29.991Z"
+  "version": "0.2.6",
+  "notes": "Exports now save straight into a folder you choose, with the original file names. Large jobs no longer fail.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.2.6/CropDog-0.2.6-mac-arm64.zip",
+  "size": 141300152,
+  "sha256": "2c72649f776095b54eb28eaa2b3f63460c4ef8a92657bcb4e84236037abd4c7c",
+  "published": "2026-09-23T06:08:25.903Z"
  }
 }

@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "0.4.1",
-  "notes": "CropDog for Windows: runs on your Intel graphics, with an automatic processor fallback.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v0.4.1-win/CropDog-0.4.1-win-x64.zip",
-  "size": 172162228,
-  "sha256": "3bd648dc37e99bc2c1cf7af7c0f130d3f167ca29c1cc19602b9bc3caa563b98b",
-  "published": "2026-09-23T23:44:46.136Z"
+  "version": "0.6.0",
+  "notes": "NVIDIA graphics support, a rule-of-thirds grid in review (press G), the version under the logo, and photos that were skipped now crop.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v0.6.0-win/CropDog-0.6.0-win-x64.zip",
+  "size": 172164755,
+  "sha256": "ffbd3441298d2fa823c0cce7ff5c693e451be984861cc1b5aa6f9a4377377600",
+  "published": "2026-09-25T02:05:30.000Z"
  },
  "latest": {
   "version": "0.3.0",

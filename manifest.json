@@ -1,0 +1,18 @@
+{
+ "latestWin": {
+  "version": "0.4.1",
+  "notes": "CropDog for Windows: runs on your Intel graphics, with an automatic processor fallback.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v0.4.1-win/CropDog-0.4.1-win-x64.zip",
+  "size": 172162228,
+  "sha256": "3bd648dc37e99bc2c1cf7af7c0f130d3f167ca29c1cc19602b9bc3caa563b98b",
+  "published": "2026-09-23T23:44:46.136Z"
+ },
+ "latest": {
+  "version": "0.3.0",
+  "notes": "Photos that used to be skipped now get a crop. The app no longer refuses a portrait just because there is very little room above the head.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.3.0/CropDog-0.3.0-mac-arm64.zip",
+  "size": 141303627,
+  "sha256": "a676bc23037bfd018f46e741aaa72bca30ae22fc3e89982a5134b23c3b3ebf7b",
+  "published": "2026-09-25T01:44:58.000Z"
+ }
+}

@@ -8,11 +8,11 @@
   "published": "2026-09-25T02:05:30.000Z"
  },
  "latest": {
-  "version": "0.3.0",
-  "notes": "Photos that used to be skipped now get a crop. The app no longer refuses a portrait just because there is very little room above the head.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.3.0/CropDog-0.3.0-mac-arm64.zip",
-  "size": 141303627,
-  "sha256": "a676bc23037bfd018f46e741aaa72bca30ae22fc3e89982a5134b23c3b3ebf7b",
-  "published": "2026-09-25T01:44:58.000Z"
+  "version": "0.4.0",
+  "notes": "Photos that lost a hand or a foot to the crop now keep them, by giving up a little space above the head instead.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.4.0/CropDog-0.4.0-mac-arm64.zip",
+  "size": 141305942,
+  "sha256": "63521cef7aab35c98f850f1572ec30c8b4764237e784a216a2abcee188001afa",
+  "published": "2026-09-25T20:59:59.191Z"
  }
 }

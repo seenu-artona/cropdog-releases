@@ -8,11 +8,11 @@
   "published": "2026-09-26T04:36:57.097Z"
  },
  "latest": {
-  "version": "0.7.0",
-  "notes": "A rebuilt review screen: filters in the side panel, Export by the filmstrip, and Skip, Undo and the grid in one toolbar.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.7.0/CropDog-0.7.0-mac-arm64.zip",
-  "size": 141298919,
-  "sha256": "e1ae7c0d36488784c92ead0a4938b0222bf443b1c5468472f9b90a956c11e7b8",
-  "published": "2026-09-26T04:32:41.182Z"
+  "version": "0.8.0",
+  "notes": "Finds the photos where eyes are closed, so you can review just those. Turn the check on when you add a folder.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.8.0/CropDog-0.8.0-mac-arm64.zip",
+  "size": 157517333,
+  "sha256": "2337d665fdb5bb3cc58959b55055187cca9efb097f7aed7686693a29a05f2c94",
+  "published": "2026-09-26T06:17:28.221Z"
  }
 }

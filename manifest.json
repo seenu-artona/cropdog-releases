@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "0.7.0",
-  "notes": "Keeps hands and feet that used to be cropped off, plus a rebuilt review screen: filters in the side panel, Export by the filmstrip.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v0.7.0-win/CropDog-0.7.0-win-x64.zip",
-  "size": 172160524,
-  "sha256": "39e72e26051a25937310571f5e3b7371451d67076b61277bc6a8358c13cdbc13",
-  "published": "2026-09-26T04:36:57.097Z"
+  "version": "0.8.0",
+  "notes": "Finds the photos where eyes are closed, so you can review just those. Turn the check on when you add a folder.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v0.8.0-win/CropDog-0.8.0-win-x64.zip",
+  "size": 189734482,
+  "sha256": "42a9ec0b4092a1916af05d12ed7e3965e0fb31f08d1b3ffc1ea797425ecd5d1c",
+  "published": "2026-09-26T06:20:56.237Z"
  },
  "latest": {
   "version": "0.8.0",

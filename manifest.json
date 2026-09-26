@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "0.6.0",
-  "notes": "NVIDIA graphics support, a rule-of-thirds grid in review (press G), the version under the logo, and photos that were skipped now crop.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v0.6.0-win/CropDog-0.6.0-win-x64.zip",
-  "size": 172164755,
-  "sha256": "ffbd3441298d2fa823c0cce7ff5c693e451be984861cc1b5aa6f9a4377377600",
-  "published": "2026-09-25T02:05:30.000Z"
+  "version": "0.7.0",
+  "notes": "Keeps hands and feet that used to be cropped off, plus a rebuilt review screen: filters in the side panel, Export by the filmstrip.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v0.7.0-win/CropDog-0.7.0-win-x64.zip",
+  "size": 172160524,
+  "sha256": "39e72e26051a25937310571f5e3b7371451d67076b61277bc6a8358c13cdbc13",
+  "published": "2026-09-26T04:36:57.097Z"
  },
  "latest": {
   "version": "0.7.0",

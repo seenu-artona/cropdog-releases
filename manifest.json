@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "0.8.0",
-  "notes": "Finds the photos where eyes are closed, so you can review just those. Turn the check on when you add a folder.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v0.8.0-win/CropDog-0.8.0-win-x64.zip",
-  "size": 189734482,
-  "sha256": "42a9ec0b4092a1916af05d12ed7e3965e0fb31f08d1b3ffc1ea797425ecd5d1c",
-  "published": "2026-09-26T06:20:56.237Z"
+  "version": "0.9.0",
+  "notes": "CropDog now opens your folders directly. An existing event asks you to pick its folder once more, then opens instantly every time after.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v0.9.0-win/CropDog-0.9.0-win-x64.zip",
+  "size": 189739116,
+  "sha256": "1beac16215c392ed3ca18b3db3e09a58bfa25b617eb9393f3eec4a08670d9125",
+  "published": "2026-09-26T07:58:17.965Z"
  },
  "latest": {
   "version": "0.9.0",

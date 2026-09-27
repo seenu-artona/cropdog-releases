@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "0.9.0",
-  "notes": "CropDog now opens your folders directly. An existing event asks you to pick its folder once more, then opens instantly every time after.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v0.9.0-win/CropDog-0.9.0-win-x64.zip",
-  "size": 189739116,
-  "sha256": "1beac16215c392ed3ca18b3db3e09a58bfa25b617eb9393f3eec4a08670d9125",
-  "published": "2026-09-26T07:58:17.965Z"
+  "version": "1.0.0",
+  "notes": "Export now asks what happens to your skipped photos: leave them alone, or mark them rejected so your own system filters them out.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.0.0-win/CropDog-1.0.0-win-x64.zip",
+  "size": 189750794,
+  "sha256": "6cb4509ab901433b4e896a866a8e9c720ae698a1028de84dc357e6b15bac49c0",
+  "published": "2026-09-27T15:39:27.208Z"
  },
  "latest": {
   "version": "1.0.0",

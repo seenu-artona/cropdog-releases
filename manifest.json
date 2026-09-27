@@ -8,11 +8,11 @@
   "published": "2026-09-26T07:58:17.965Z"
  },
  "latest": {
-  "version": "0.9.0",
-  "notes": "CropDog now opens your folders directly. An existing event asks you to pick its folder once more, then opens instantly every time after.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v0.9.0/CropDog-0.9.0-mac-arm64.zip",
-  "size": 158886721,
-  "sha256": "cf4865ae5aa0b7b62bd624887ad0d7959552c6e1dab414833fa5db6c0705191e",
-  "published": "2026-09-26T07:56:50.600Z"
+  "version": "1.0.0",
+  "notes": "Export now asks what happens to your skipped photos: leave them alone, or mark them rejected so your own system filters them out.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.0.0/CropDog-1.0.0-mac-arm64.zip",
+  "size": 157533807,
+  "sha256": "86a40a0523aa829809e7c407e41ae883cd0af68cb8a8394c60543ed6490ad804",
+  "published": "2026-09-27T15:38:00.540Z"
  }
 }

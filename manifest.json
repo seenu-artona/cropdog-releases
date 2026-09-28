@@ -8,11 +8,11 @@
   "published": "2026-09-27T15:39:27.208Z"
  },
  "latest": {
-  "version": "1.0.0",
-  "notes": "Export now asks what happens to your skipped photos: leave them alone, or mark them rejected so your own system filters them out.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.0.0/CropDog-1.0.0-mac-arm64.zip",
-  "size": 157533807,
-  "sha256": "86a40a0523aa829809e7c407e41ae883cd0af68cb8a8394c60543ed6490ad804",
-  "published": "2026-09-27T15:38:00.540Z"
+  "version": "1.0.1",
+  "notes": "crop3-4 subject restriction (apple-basket fix) and the fragment-adoption gate (straw fix): crops centre on the child, not the frame.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.0.1/CropDog-1.0.1-mac-arm64.zip",
+  "size": 158901512,
+  "sha256": "61efc8c0347ae03b9464ed5886d20c387a464db1f1a6565fade2abc8b7395ebe",
+  "published": "2026-09-28T03:24:26.085Z"
  }
 }

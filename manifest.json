@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.1.0",
-  "notes": "Camera-roll levelling (opt-in, full-length); pre-Arc/no-GPU Windows PCs now get a 195 MB CPU runtime, not an XPU build they can't run.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.1.0-win/CropDog-1.1.0-win-x64.zip",
-  "size": 189760668,
-  "sha256": "b3e04628f1aad7af1bee4de4dd64675f62c9911cff752e43505a158b7e00b882",
-  "published": "2026-09-29T00:34:36.307Z"
+  "version": "1.1.1",
+  "notes": "Marking writes in place (no .jpg_original backups), verification is Windows-robust, and a failed mark now surfaces on the export screen.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.1.1-win/CropDog-1.1.1-win-x64.zip",
+  "size": 189761536,
+  "sha256": "c5767e1a70ee6622bf502564f4deca87d31c506186d186294c99e0d5bb0c7c48",
+  "published": "2026-09-29T17:40:19.532Z"
  },
  "latest": {
   "version": "1.1.1",

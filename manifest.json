@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.0.1",
-  "notes": "crop3-4 subject restriction (apple-basket fix) and the fragment-adoption gate (straw fix): crops centre on the child, not the frame.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.0.1-win/CropDog-1.0.1-win-x64.zip",
-  "size": 189753557,
-  "sha256": "32fa61c3e8836771a057dc5a0e3f1a4d50c6f16df7d8814f1ac8ee2533830368",
-  "published": "2026-09-28T03:27:49.111Z"
+  "version": "1.1.0",
+  "notes": "Camera-roll levelling (opt-in, full-length); pre-Arc/no-GPU Windows PCs now get a 195 MB CPU runtime, not an XPU build they can't run.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.1.0-win/CropDog-1.1.0-win-x64.zip",
+  "size": 189760668,
+  "sha256": "b3e04628f1aad7af1bee4de4dd64675f62c9911cff752e43505a158b7e00b882",
+  "published": "2026-09-29T00:34:36.307Z"
  },
  "latest": {
   "version": "1.1.0",

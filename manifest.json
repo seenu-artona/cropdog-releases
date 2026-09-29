@@ -8,11 +8,11 @@
   "published": "2026-09-28T03:27:49.111Z"
  },
  "latest": {
-  "version": "1.0.1",
-  "notes": "crop3-4 subject restriction (apple-basket fix) and the fragment-adoption gate (straw fix): crops centre on the child, not the frame.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.0.1/CropDog-1.0.1-mac-arm64.zip",
-  "size": 158901512,
-  "sha256": "61efc8c0347ae03b9464ed5886d20c387a464db1f1a6565fade2abc8b7395ebe",
-  "published": "2026-09-28T03:24:26.085Z"
+  "version": "1.1.0",
+  "notes": "Camera-roll levelling (opt-in, full-length); pre-Arc/no-GPU Windows PCs now get a 195 MB CPU runtime, not an XPU build they can't run.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.1.0/CropDog-1.1.0-mac-arm64.zip",
+  "size": 158910102,
+  "sha256": "00964dea43b9a97fa9a5b232d8b6be0fc76e6145edb76fdf274c2fbfa001da06",
+  "published": "2026-09-29T00:30:20.039Z"
  }
 }

@@ -8,11 +8,11 @@
   "published": "2026-09-29T17:40:19.532Z"
  },
  "latest": {
-  "version": "1.1.1",
-  "notes": "Marking writes in place (no .jpg_original backups), verification is Windows-robust, and a failed mark now surfaces on the export screen.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.1.1/CropDog-1.1.1-mac-arm64.zip",
-  "size": 158910946,
-  "sha256": "d4c5692f7a34f46494b3938a6c873ab58afa3c6c1de65714fa2a7c1d062f1120",
-  "published": "2026-09-29T17:34:08.369Z"
+  "version": "1.2.0",
+  "notes": "Choose the crop shape per job — 4:5 or the photo's original — on a refreshed job-options screen.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.0/CropDog-1.2.0-mac-arm64.zip",
+  "size": 158913556,
+  "sha256": "c699b51a828b8a9e3e5f8f1915ad420150b353ccfffc4fff21b3f687917da7ed",
+  "published": "2026-09-29T23:17:36.652Z"
  }
 }

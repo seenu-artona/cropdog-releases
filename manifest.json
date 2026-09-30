@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.0",
-  "notes": "Choose the crop shape per job — 4:5 or the photo's original — on a refreshed job-options screen.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.0-win/CropDog-1.2.0-win-x64.zip",
-  "size": 189764115,
-  "sha256": "dedd038805d9985f53849659e4add5231aa1696c9dec0769d041200dcc6b61fc",
-  "published": "2026-09-29T23:24:51.187Z"
+  "version": "1.2.1",
+  "notes": "Review: a Kept filter for the photos you're keeping, and the strip now moves on to the next photo when you skip one.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.1-win/CropDog-1.2.1-win-x64.zip",
+  "size": 189764258,
+  "sha256": "81ee0473a1074db7b7b7a271be09fb87681881abbd1bd4d62dc2cc7b9f58c15a",
+  "published": "2026-09-30T04:42:51.879Z"
  },
  "latest": {
   "version": "1.2.1",

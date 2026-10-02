@@ -8,11 +8,11 @@
   "published": "2026-09-30T04:42:51.879Z"
  },
  "latest": {
-  "version": "1.2.1",
-  "notes": "Review: a Kept filter for the photos you're keeping, and the strip now moves on to the next photo when you skip one.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.1/CropDog-1.2.1-mac-arm64.zip",
-  "size": 158913721,
-  "sha256": "4f467774166865195d367c876ad7a4faa0c5a988f7c9bbe06a7f9ba954a158c1",
-  "published": "2026-09-30T04:36:49.324Z"
+  "version": "1.2.2",
+  "notes": "Fixes the Windows updater, which could restart without installing the update.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.2/CropDog-1.2.2-mac-arm64.zip",
+  "size": 158918840,
+  "sha256": "246f7e537e238c44d7547bbad92f96bc1fed0638931485a6d9b8ed7d0286d22c",
+  "published": "2026-10-02T21:39:52.911Z"
  }
 }

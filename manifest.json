@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.1",
-  "notes": "Review: a Kept filter for the photos you're keeping, and the strip now moves on to the next photo when you skip one.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.1-win/CropDog-1.2.1-win-x64.zip",
-  "size": 189764258,
-  "sha256": "81ee0473a1074db7b7b7a271be09fb87681881abbd1bd4d62dc2cc7b9f58c15a",
-  "published": "2026-09-30T04:42:51.879Z"
+  "version": "1.2.2",
+  "notes": "Fixes the Windows updater, which could restart without installing the update.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.2-win/CropDog-1.2.2-win-x64.zip",
+  "size": 189768945,
+  "sha256": "17197f1ef177db405452cce6719d4eeb32e3cbb2023023c4acb698942981e5e6",
+  "published": "2026-10-02T21:45:39.816Z"
  },
  "latest": {
   "version": "1.2.2",

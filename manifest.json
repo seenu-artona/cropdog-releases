@@ -8,11 +8,11 @@
   "published": "2026-10-03T17:40:57.359Z"
  },
  "latest": {
-  "version": "1.2.3",
-  "notes": "Crops photos framed tight above the head instead of flagging them.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.3/CropDog-1.2.3-mac-arm64.zip",
-  "size": 158919187,
-  "sha256": "b9708ac10bd8a3ddfad4f156f3064db726b84b15620a0c3169f6d18f1b91b769",
-  "published": "2026-10-03T17:34:42.371Z"
+  "version": "1.2.4",
+  "notes": "Crops photos where a hand blocked the only workable edge, instead of flagging them.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.4/CropDog-1.2.4-mac-arm64.zip",
+  "size": 158920332,
+  "sha256": "269c6fb8097ecce540d59d17280f1eba653266ab6e9073066840a98763df3d7a",
+  "published": "2026-10-03T21:54:49.913Z"
  }
 }

@@ -8,11 +8,11 @@
   "published": "2026-10-02T21:45:39.816Z"
  },
  "latest": {
-  "version": "1.2.2",
-  "notes": "Fixes the Windows updater, which could restart without installing the update.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.2/CropDog-1.2.2-mac-arm64.zip",
-  "size": 158918840,
-  "sha256": "246f7e537e238c44d7547bbad92f96bc1fed0638931485a6d9b8ed7d0286d22c",
-  "published": "2026-10-02T21:39:52.911Z"
+  "version": "1.2.3",
+  "notes": "Crops photos framed tight above the head instead of flagging them.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.3/CropDog-1.2.3-mac-arm64.zip",
+  "size": 158919187,
+  "sha256": "b9708ac10bd8a3ddfad4f156f3064db726b84b15620a0c3169f6d18f1b91b769",
+  "published": "2026-10-03T17:34:42.371Z"
  }
 }

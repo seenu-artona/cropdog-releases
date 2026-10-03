@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.2",
-  "notes": "Fixes the Windows updater, which could restart without installing the update.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.2-win/CropDog-1.2.2-win-x64.zip",
-  "size": 189768945,
-  "sha256": "17197f1ef177db405452cce6719d4eeb32e3cbb2023023c4acb698942981e5e6",
-  "published": "2026-10-02T21:45:39.816Z"
+  "version": "1.2.3",
+  "notes": "Crops photos framed tight above the head instead of flagging them.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.3-win/CropDog-1.2.3-win-x64.zip",
+  "size": 189769274,
+  "sha256": "582acf54a25ee2f83afeb1b8d4c795dee151e3585855284b02527aeb9372af03",
+  "published": "2026-10-03T17:40:57.359Z"
  },
  "latest": {
   "version": "1.2.3",

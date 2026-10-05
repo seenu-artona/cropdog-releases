@@ -8,11 +8,11 @@
   "published": "2026-10-03T22:04:07.953Z"
  },
  "latest": {
-  "version": "1.2.4",
-  "notes": "Crops photos where a hand blocked the only workable edge, instead of flagging them.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.4/CropDog-1.2.4-mac-arm64.zip",
-  "size": 158920332,
-  "sha256": "269c6fb8097ecce540d59d17280f1eba653266ab6e9073066840a98763df3d7a",
-  "published": "2026-10-03T21:54:49.913Z"
+  "version": "1.2.5",
+  "notes": "A 5×7 print guide inside the crop, on the overlay key.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.5/CropDog-1.2.5-mac-arm64.zip",
+  "size": 158921137,
+  "sha256": "ac05720fa005514f063ff22810097cea911191ba65e2a2d2ae4c2d0f53d002b0",
+  "published": "2026-10-05T18:38:11.116Z"
  }
 }

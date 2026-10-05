@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.4",
-  "notes": "Crops photos where a hand blocked the only workable edge, instead of flagging them.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.4-win/CropDog-1.2.4-win-x64.zip",
-  "size": 189770469,
-  "sha256": "0eb2628c3aed7eb5b00a5d89aa2d58c1c92810e5f86e1d16f2db30583a14fd9d",
-  "published": "2026-10-03T22:04:07.953Z"
+  "version": "1.2.5",
+  "notes": "A 5×7 print guide inside the crop, on the overlay key.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.5-win/CropDog-1.2.5-win-x64.zip",
+  "size": 189771259,
+  "sha256": "8751e33d9cdfaeab1ecbd20788939247157356f1ebca59c0b03a8cfe7ffe2c4c",
+  "published": "2026-10-05T18:44:02.664Z"
  },
  "latest": {
   "version": "1.2.5",

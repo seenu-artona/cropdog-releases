@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.6",
-  "notes": "Straighten photos from the background, with a level-only mode that trims the rotation without cropping.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.6-win/CropDog-1.2.6-win-x64.zip",
-  "size": 189784834,
-  "sha256": "737f6e51714862d59c2e01c4c8312707c54b1c0f59db6c26e9986ca9119978fc",
-  "published": "2026-10-09T02:18:54.898Z"
+  "version": "1.2.7",
+  "notes": "Set any photo's angle by hand in review, and crop it too - both controls now work in every mode.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.7-win/CropDog-1.2.7-win-x64.zip",
+  "size": 189787853,
+  "sha256": "433bec7eee9d5beabc01dda1e6bff37a0f8abe2cda804f04385f042081e540fd",
+  "published": "2026-10-09T04:57:30.543Z"
  },
  "latest": {
   "version": "1.2.7",

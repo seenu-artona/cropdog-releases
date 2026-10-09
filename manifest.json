@@ -8,11 +8,11 @@
   "published": "2026-10-09T04:57:30.543Z"
  },
  "latest": {
-  "version": "1.2.7",
-  "notes": "Set any photo's angle by hand in review, and crop it too - both controls now work in every mode.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.7/CropDog-1.2.7-mac-arm64.zip",
-  "size": 158937990,
-  "sha256": "6e8933b09aed949b683539306373d110c157a7181f84ed5f25aacb926ed88a77",
-  "published": "2026-10-09T04:56:47.689Z"
+  "version": "1.2.8",
+  "notes": "Fix: the crop box could not always be expanded back out after tilting a photo.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.8/CropDog-1.2.8-mac-arm64.zip",
+  "size": 158938034,
+  "sha256": "a2935cddf3618c7bba2e5db8154327318b631fba7080b152cd89fc2a108851f4",
+  "published": "2026-10-09T05:56:36.103Z"
  }
 }

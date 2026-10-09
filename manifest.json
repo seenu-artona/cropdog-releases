@@ -8,11 +8,11 @@
   "published": "2026-10-09T02:18:54.898Z"
  },
  "latest": {
-  "version": "1.2.6",
-  "notes": "Straighten photos from the background, with a level-only mode that trims the rotation without cropping.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.6/CropDog-1.2.6-mac-arm64.zip",
-  "size": 158936001,
-  "sha256": "77d0a1f7bdf1e1edafc8ac2eeb9a293a753b84a492b79eceb18e765b8f75c8e7",
-  "published": "2026-10-09T02:20:46.387Z"
+  "version": "1.2.7",
+  "notes": "Set any photo's angle by hand in review, and crop it too - both controls now work in every mode.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.7/CropDog-1.2.7-mac-arm64.zip",
+  "size": 158937990,
+  "sha256": "6e8933b09aed949b683539306373d110c157a7181f84ed5f25aacb926ed88a77",
+  "published": "2026-10-09T04:56:47.689Z"
  }
 }

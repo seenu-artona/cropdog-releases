@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.5",
-  "notes": "A 5×7 print guide inside the crop, on the overlay key.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.5-win/CropDog-1.2.5-win-x64.zip",
-  "size": 189771259,
-  "sha256": "8751e33d9cdfaeab1ecbd20788939247157356f1ebca59c0b03a8cfe7ffe2c4c",
-  "published": "2026-10-05T18:44:02.664Z"
+  "version": "1.2.6",
+  "notes": "Straighten photos from the background, with a level-only mode that trims the rotation without cropping.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.6-win/CropDog-1.2.6-win-x64.zip",
+  "size": 189784834,
+  "sha256": "737f6e51714862d59c2e01c4c8312707c54b1c0f59db6c26e9986ca9119978fc",
+  "published": "2026-10-09T02:18:54.898Z"
  },
  "latest": {
   "version": "1.2.5",

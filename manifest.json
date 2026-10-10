@@ -8,11 +8,11 @@
   "published": "2026-10-09T05:57:31.000Z"
  },
  "latest": {
-  "version": "1.2.8",
-  "notes": "Fix: the crop box could not always be expanded back out after tilting a photo.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.8/CropDog-1.2.8-mac-arm64.zip",
-  "size": 158938034,
-  "sha256": "a2935cddf3618c7bba2e5db8154327318b631fba7080b152cd89fc2a108851f4",
-  "published": "2026-10-09T05:56:36.103Z"
+  "version": "1.2.9",
+  "notes": "Fix: the crop box could become stuck after tilting and moving it.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.9/CropDog-1.2.9-mac-arm64.zip",
+  "size": 158938160,
+  "sha256": "e4c90de54e9d0de2999eaf3a639cbf67670ee210448afd5b46c94f0c2b34b335",
+  "published": "2026-10-10T23:31:56.191Z"
  }
 }

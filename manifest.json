@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.8",
-  "notes": "Fix: the crop box could not always be expanded back out after tilting a photo.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.8-win/CropDog-1.2.8-win-x64.zip",
-  "size": 189787902,
-  "sha256": "5b838f2467edd24c54206c89dbd211eb2e0ce4ee6e8696c7e0e4012de0950218",
-  "published": "2026-10-09T05:57:31.000Z"
+  "version": "1.2.9",
+  "notes": "Fix: the crop box could become stuck after tilting and moving it.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.9-win/CropDog-1.2.9-win-x64.zip",
+  "size": 189788035,
+  "sha256": "c95b543183eb6482ebc83ca8d4e13fdc0464909044b39dff2309562b0632f1a1",
+  "published": "2026-10-10T23:32:37.100Z"
  },
  "latest": {
   "version": "1.2.9",

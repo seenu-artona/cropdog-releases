@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.9",
-  "notes": "Fix: the crop box could become stuck after tilting and moving it.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.9-win/CropDog-1.2.9-win-x64.zip",
-  "size": 189788035,
-  "sha256": "c95b543183eb6482ebc83ca8d4e13fdc0464909044b39dff2309562b0632f1a1",
-  "published": "2026-10-10T23:32:37.100Z"
+  "version": "1.2.10",
+  "notes": "Fix: the Windows update could not install itself.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.10-win/CropDog-1.2.10-win-x64.zip",
+  "size": 189790066,
+  "sha256": "7b49a714d2f358edb7e3daf964b7f8ca0aaa0a054fa2efe31d913da829f71da7",
+  "published": "2026-10-11T00:30:50.044Z"
  },
  "latest": {
   "version": "1.2.10",

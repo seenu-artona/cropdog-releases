@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.10",
-  "notes": "Fix: the Windows update could not install itself.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.10-win/CropDog-1.2.10-win-x64.zip",
-  "size": 189790066,
-  "sha256": "7b49a714d2f358edb7e3daf964b7f8ca0aaa0a054fa2efe31d913da829f71da7",
-  "published": "2026-10-11T00:30:50.044Z"
+  "version": "1.2.11",
+  "notes": "Flip a crop between portrait and landscape by dragging a corner.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.11-win/CropDog-1.2.11-win-x64.zip",
+  "size": 189790811,
+  "sha256": "8c32243cc2aa5d71a13eb8aa977d43363d36073c1a960d077fbbf4f7150c1b1f",
+  "published": "2026-10-11T03:33:27.913Z"
  },
  "latest": {
   "version": "1.2.11",

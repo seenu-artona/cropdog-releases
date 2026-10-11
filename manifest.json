@@ -8,11 +8,11 @@
   "published": "2026-10-10T23:32:37.100Z"
  },
  "latest": {
-  "version": "1.2.9",
-  "notes": "Fix: the crop box could become stuck after tilting and moving it.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.9/CropDog-1.2.9-mac-arm64.zip",
-  "size": 158938160,
-  "sha256": "e4c90de54e9d0de2999eaf3a639cbf67670ee210448afd5b46c94f0c2b34b335",
-  "published": "2026-10-10T23:31:56.191Z"
+  "version": "1.2.10",
+  "notes": "Fix: the Windows update could not install itself.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.10/CropDog-1.2.10-mac-arm64.zip",
+  "size": 158940193,
+  "sha256": "82c6c72915371e300033f6d5c39a4836ec70aeb533a07e8d87f95810684b93f6",
+  "published": "2026-10-11T00:30:09.647Z"
  }
 }

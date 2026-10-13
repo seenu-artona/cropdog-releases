@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.11",
-  "notes": "Flip a crop between portrait and landscape by dragging a corner.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.11-win/CropDog-1.2.11-win-x64.zip",
-  "size": 189790811,
-  "sha256": "8c32243cc2aa5d71a13eb8aa977d43363d36073c1a960d077fbbf4f7150c1b1f",
-  "published": "2026-10-11T03:33:27.913Z"
+  "version": "1.2.12",
+  "notes": "Fix: exported photos kept their IPTC and XMP metadata.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.12-win/CropDog-1.2.12-win-x64.zip",
+  "size": 189791677,
+  "sha256": "cd6d9150dc4eb9129217f2ff4d33cb73ac8fb0cf60de25c99214f16ecbd63b68",
+  "published": "2026-10-13T19:01:21.173Z"
  },
  "latest": {
   "version": "1.2.12",

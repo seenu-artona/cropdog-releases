@@ -8,11 +8,11 @@
   "published": "2026-10-11T03:33:27.913Z"
  },
  "latest": {
-  "version": "1.2.11",
-  "notes": "Flip a crop between portrait and landscape by dragging a corner.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.11/CropDog-1.2.11-mac-arm64.zip",
-  "size": 158940969,
-  "sha256": "d00a1b4913e37b576e32001eb7f3eb48aff9f556b3eae135bc55bd175453f0ed",
-  "published": "2026-10-11T03:32:45.671Z"
+  "version": "1.2.12",
+  "notes": "Fix: exported photos kept their IPTC and XMP metadata.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.12/CropDog-1.2.12-mac-arm64.zip",
+  "size": 158941820,
+  "sha256": "e49d115bfd6cd186b02a32309afbbd2678079c1e30b167fbd7112f6458f408fa",
+  "published": "2026-10-13T18:40:25.206Z"
  }
 }

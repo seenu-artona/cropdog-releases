@@ -8,11 +8,11 @@
   "published": "2026-10-13T19:01:21.173Z"
  },
  "latest": {
-  "version": "1.2.13",
-  "notes": "New option under Crop: Stay on backdrop — the crop never reaches past the backdrop's edge.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.13/CropDog-1.2.13-mac-arm64.zip",
-  "size": 158955573,
-  "sha256": "bdc4cad0cdec8d856d864991503f4e20613ae6fb8b37a599b2ba1ecf8f5fde94",
-  "published": "2026-10-16T15:42:39.207Z"
+  "version": "1.2.14",
+  "notes": "Stay on backdrop: finds the backdrop edge reliably on more studios.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.14/CropDog-1.2.14-mac-arm64.zip",
+  "size": 158957907,
+  "sha256": "76477d3a313f28b56f402e3ec1f2ef5163fd7f897e169c17604ed2029ed0e9ae",
+  "published": "2026-10-16T17:12:30.474Z"
  }
 }

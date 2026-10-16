@@ -8,11 +8,11 @@
   "published": "2026-10-13T19:01:21.173Z"
  },
  "latest": {
-  "version": "1.2.12",
-  "notes": "Fix: exported photos kept their IPTC and XMP metadata.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.12/CropDog-1.2.12-mac-arm64.zip",
-  "size": 158941820,
-  "sha256": "e49d115bfd6cd186b02a32309afbbd2678079c1e30b167fbd7112f6458f408fa",
-  "published": "2026-10-13T18:40:25.206Z"
+  "version": "1.2.13",
+  "notes": "New option under Crop: Stay on backdrop — the crop never reaches past the backdrop's edge.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.13/CropDog-1.2.13-mac-arm64.zip",
+  "size": 158955573,
+  "sha256": "bdc4cad0cdec8d856d864991503f4e20613ae6fb8b37a599b2ba1ecf8f5fde94",
+  "published": "2026-10-16T15:42:39.207Z"
  }
 }

@@ -8,11 +8,11 @@
   "published": "2026-10-13T19:01:21.173Z"
  },
  "latest": {
-  "version": "1.2.15",
-  "notes": "Crops centre on face and body; Stay on backdrop follows leaning stands and keeps full length where the backdrop allows.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.15/CropDog-1.2.15-mac-arm64.zip",
-  "size": 158963542,
-  "sha256": "e0b06c488e7e9bdd80b84142c09ba667b07fbca0e55717bf4aceb138f68f62e2",
-  "published": "2026-10-16T20:37:34.248Z"
+  "version": "1.2.16",
+  "notes": "Stay on backdrop: keeps full length by tightening the air first, and finds edges that cover only part of the frame.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.16/CropDog-1.2.16-mac-arm64.zip",
+  "size": 158964979,
+  "sha256": "0dae57fa291f878ad616a104c1df600381d5cd4263a8471d67658294cda87d95",
+  "published": "2026-10-16T22:12:38.394Z"
  }
 }

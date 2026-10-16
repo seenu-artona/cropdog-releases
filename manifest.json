@@ -8,11 +8,11 @@
   "published": "2026-10-13T19:01:21.173Z"
  },
  "latest": {
-  "version": "1.2.14",
-  "notes": "Stay on backdrop: finds the backdrop edge reliably on more studios.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.14/CropDog-1.2.14-mac-arm64.zip",
-  "size": 158957907,
-  "sha256": "76477d3a313f28b56f402e3ec1f2ef5163fd7f897e169c17604ed2029ed0e9ae",
-  "published": "2026-10-16T17:12:30.474Z"
+  "version": "1.2.15",
+  "notes": "Crops centre on face and body; Stay on backdrop follows leaning stands and keeps full length where the backdrop allows.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.15/CropDog-1.2.15-mac-arm64.zip",
+  "size": 158963542,
+  "sha256": "e0b06c488e7e9bdd80b84142c09ba667b07fbca0e55717bf4aceb138f68f62e2",
+  "published": "2026-10-16T20:37:34.248Z"
  }
 }

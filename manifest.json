@@ -8,11 +8,11 @@
   "published": "2026-10-13T19:01:21.173Z"
  },
  "latest": {
-  "version": "1.2.16",
-  "notes": "Stay on backdrop: keeps full length by tightening the air first, and finds edges that cover only part of the frame.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.16/CropDog-1.2.16-mac-arm64.zip",
-  "size": 158964979,
-  "sha256": "0dae57fa291f878ad616a104c1df600381d5cd4263a8471d67658294cda87d95",
-  "published": "2026-10-16T22:12:38.394Z"
+  "version": "1.2.17",
+  "notes": "Faster when the window is in the background. Crop again can now redo photos you adjusted by hand.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.17/CropDog-1.2.17-mac-arm64.zip",
+  "size": 158966529,
+  "sha256": "3e0447a9c61dca213becaec86dce94dac8f48f9cdd369a10f9f382d264d2d8e1",
+  "published": "2026-10-17T00:32:45.952Z"
  }
 }

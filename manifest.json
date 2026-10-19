@@ -8,11 +8,11 @@
   "published": "2026-10-13T19:01:21.173Z"
  },
  "latest": {
-  "version": "1.2.18",
-  "notes": "Crops fit the whole pose first. Stay on backdrop works with chairs and props in the shot. Crop again lets you change the options.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.18/CropDog-1.2.18-mac-arm64.zip",
-  "size": 158967694,
-  "sha256": "d5c3e1bdf861fbfba85d407c363a7dc41aa09936f475b068203a795c53037950",
-  "published": "2026-10-19T20:50:10.060Z"
+  "version": "1.2.19",
+  "notes": "Groups that just don't fit are trimmed evenly on both sides instead of cutting one person.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.19/CropDog-1.2.19-mac-arm64.zip",
+  "size": 158968995,
+  "sha256": "86714860dfb88211924e9f939529267d5d07880ed7decd2201fbf697ba2c6e59",
+  "published": "2026-10-19T22:01:49.683Z"
  }
 }

@@ -8,11 +8,11 @@
   "published": "2026-10-13T19:01:21.173Z"
  },
  "latest": {
-  "version": "1.2.17",
-  "notes": "Faster when the window is in the background. Crop again can now redo photos you adjusted by hand.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.17/CropDog-1.2.17-mac-arm64.zip",
-  "size": 158966529,
-  "sha256": "3e0447a9c61dca213becaec86dce94dac8f48f9cdd369a10f9f382d264d2d8e1",
-  "published": "2026-10-17T00:32:45.952Z"
+  "version": "1.2.18",
+  "notes": "Crops fit the whole pose first. Stay on backdrop works with chairs and props in the shot. Crop again lets you change the options.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.18/CropDog-1.2.18-mac-arm64.zip",
+  "size": 158967694,
+  "sha256": "d5c3e1bdf861fbfba85d407c363a7dc41aa09936f475b068203a795c53037950",
+  "published": "2026-10-19T20:50:10.060Z"
  }
 }

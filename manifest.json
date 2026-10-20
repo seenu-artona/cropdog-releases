@@ -8,11 +8,11 @@
   "published": "2026-10-13T19:01:21.173Z"
  },
  "latest": {
-  "version": "1.2.19",
-  "notes": "Groups that just don't fit are trimmed evenly on both sides instead of cutting one person.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.19/CropDog-1.2.19-mac-arm64.zip",
-  "size": 158968995,
-  "sha256": "86714860dfb88211924e9f939529267d5d07880ed7decd2201fbf697ba2c6e59",
-  "published": "2026-10-19T22:01:49.683Z"
+  "version": "1.2.20",
+  "notes": "Stay on backdrop works again on wide groups and keeps full length more often. The crop box can now go past the backdrop line.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.20/CropDog-1.2.20-mac-arm64.zip",
+  "size": 158970495,
+  "sha256": "3f21d6e4ad3a2699aba6fda8c5f50d3bfe545a3765dd2e62556ebbc1bef5afbf",
+  "published": "2026-10-20T16:37:59.636Z"
  }
 }

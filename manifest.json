@@ -8,11 +8,11 @@
   "published": "2026-10-13T19:01:21.173Z"
  },
  "latest": {
-  "version": "1.2.22",
-  "notes": "Seated groups fill the backdrop better: the crop may trim a thin edge of clothing instead of cutting higher.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.22/CropDog-1.2.22-mac-arm64.zip",
-  "size": 158991913,
-  "sha256": "6b28525ffb1963d43c3f0f098b149c1fc96f8856d7dab8fa700fa9d40d57d4be",
-  "published": "2026-10-21T18:29:06.544Z"
+  "version": "1.2.23",
+  "notes": "Stay on backdrop: no longer mistakes painted canvas texture for the backdrop edge.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.23/CropDog-1.2.23-mac-arm64.zip",
+  "size": 158993312,
+  "sha256": "b1dd2dea4b6540362601eb67c9564691e15f8f98551417221d43959bebd40590",
+  "published": "2026-10-21T19:24:31.724Z"
  }
 }

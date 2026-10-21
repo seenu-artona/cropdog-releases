@@ -8,11 +8,11 @@
   "published": "2026-10-13T19:01:21.173Z"
  },
  "latest": {
-  "version": "1.2.21",
-  "notes": "New crop search finds better crops, faster. Stay on backdrop keeps more of the kids. Update asks for a Mac password if needed.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.21/CropDog-1.2.21-mac-arm64.zip",
-  "size": 158991251,
-  "sha256": "48bb86da7e30a698c1b2a2f9b3a01f31d7ec526052f9dfa3216ef99bb04ad0dd",
-  "published": "2026-10-21T17:44:50.505Z"
+  "version": "1.2.22",
+  "notes": "Seated groups fill the backdrop better: the crop may trim a thin edge of clothing instead of cutting higher.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.22/CropDog-1.2.22-mac-arm64.zip",
+  "size": 158991913,
+  "sha256": "6b28525ffb1963d43c3f0f098b149c1fc96f8856d7dab8fa700fa9d40d57d4be",
+  "published": "2026-10-21T18:29:06.544Z"
  }
 }

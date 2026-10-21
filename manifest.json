@@ -8,11 +8,11 @@
   "published": "2026-10-13T19:01:21.173Z"
  },
  "latest": {
-  "version": "1.2.20",
-  "notes": "Stay on backdrop works again on wide groups and keeps full length more often. The crop box can now go past the backdrop line.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.20/CropDog-1.2.20-mac-arm64.zip",
-  "size": 158970495,
-  "sha256": "3f21d6e4ad3a2699aba6fda8c5f50d3bfe545a3765dd2e62556ebbc1bef5afbf",
-  "published": "2026-10-20T16:37:59.636Z"
+  "version": "1.2.21",
+  "notes": "New crop search finds better crops, faster. Stay on backdrop keeps more of the kids. Update asks for a Mac password if needed.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.21/CropDog-1.2.21-mac-arm64.zip",
+  "size": 158991251,
+  "sha256": "48bb86da7e30a698c1b2a2f9b3a01f31d7ec526052f9dfa3216ef99bb04ad0dd",
+  "published": "2026-10-21T17:44:50.505Z"
  }
 }

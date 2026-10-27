@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.12",
-  "notes": "Fix: exported photos kept their IPTC and XMP metadata.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.12-win/CropDog-1.2.12-win-x64.zip",
-  "size": 189791677,
-  "sha256": "cd6d9150dc4eb9129217f2ff4d33cb73ac8fb0cf60de25c99214f16ecbd63b68",
-  "published": "2026-10-13T19:01:21.173Z"
+  "version": "1.2.24",
+  "notes": "Stay on backdrop: keeps soft, out-of-focus backdrop edges and ignores painted canvas texture.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.24-win/CropDog-1.2.24-win-x64.zip",
+  "size": 189856259,
+  "sha256": "0b84c4d1e6b6da7c26ab71763758fd0404ec2bfa4e155dbfa68c13a28cd3f311",
+  "published": "2026-10-27T21:01:04.589Z"
  },
  "latest": {
   "version": "1.2.24",

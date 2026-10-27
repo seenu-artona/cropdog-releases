@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.24",
-  "notes": "Stay on backdrop: keeps soft, out-of-focus backdrop edges and ignores painted canvas texture.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.24-win/CropDog-1.2.24-win-x64.zip",
-  "size": 189856259,
-  "sha256": "0b84c4d1e6b6da7c26ab71763758fd0404ec2bfa4e155dbfa68c13a28cd3f311",
-  "published": "2026-10-27T21:01:04.589Z"
+  "version": "1.2.25",
+  "notes": "Windows: CropDog Setup installs without an admin password, with Start menu and desktop shortcuts. Same crops as 1.2.24.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.25-win/CropDog-1.2.25-win-x64.zip",
+  "size": 189856683,
+  "sha256": "302176b9dde15e5a1446eb74503ab75b8550689f82ce9867bb0eb84e4e31a02b",
+  "published": "2026-10-27T23:01:57.752Z"
  },
  "latest": {
   "version": "1.2.24",
@@ -14,5 +14,12 @@
   "size": 158997850,
   "sha256": "f43f689ad309f012767df8fd721c2bfe5c255cbaab6b31d1e5111f37f774af39",
   "published": "2026-10-27T01:45:47.262Z"
+ },
+ "latestWinInstaller": {
+  "version": "1.2.25",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.25-win/CropDog-Setup-1.2.25.exe",
+  "size": 132147632,
+  "sha256": "a57b6ed0b981c6a872ab5ef4aee9f46be37de6f44a86592822d59e67eaedf0fe",
+  "published": "2026-10-27T23:01:57.752Z"
  }
 }

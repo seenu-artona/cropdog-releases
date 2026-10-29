@@ -8,12 +8,12 @@
   "published": "2026-10-29T19:32:24.647Z"
  },
  "latest": {
-  "version": "1.2.27",
-  "notes": "Small internal update; no change to how CropDog works.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.27/CropDog-1.2.27-mac-arm64.zip",
-  "size": 160135556,
-  "sha256": "677f9f9ab9b0ab42c8f6f3390a6c8315f77fb0de35bc82a725e14887447309be",
-  "published": "2026-10-29T19:31:36.613Z"
+  "version": "1.2.28",
+  "notes": "Each login now works on one computer at a time. Settings is simpler, and adding staff is one click.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.28/CropDog-1.2.28-mac-arm64.zip",
+  "size": 160161560,
+  "sha256": "1876f744d7e9fa59b350c31f3f4a38c8079d7482b73c702996de9ea91d0ccef3",
+  "published": "2026-10-29T22:59:49.346Z"
  },
  "latestWinInstaller": {
   "version": "1.2.27",

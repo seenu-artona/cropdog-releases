@@ -8,12 +8,12 @@
   "published": "2026-10-29T00:52:34.357Z"
  },
  "latest": {
-  "version": "1.2.24",
-  "notes": "Stay on backdrop: keeps soft, out-of-focus backdrop edges and ignores painted canvas texture.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.24/CropDog-1.2.24-mac-arm64.zip",
-  "size": 158997850,
-  "sha256": "f43f689ad309f012767df8fd721c2bfe5c255cbaab6b31d1e5111f37f774af39",
-  "published": "2026-10-27T01:45:47.262Z"
+  "version": "1.2.26",
+  "notes": "Mac: CropDog is now signed and notarized by Apple, so it opens without security warnings.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.26/CropDog-1.2.26-mac-arm64.zip",
+  "size": 160132672,
+  "sha256": "171b7315a1008b569c7c303adf680888f395352dcbd7ade3a0fdd83f870c6ef3",
+  "published": "2026-10-29T19:05:52.669Z"
  },
  "latestWinInstaller": {
   "version": "1.2.26",

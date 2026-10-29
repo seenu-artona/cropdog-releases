@@ -8,12 +8,12 @@
   "published": "2026-10-29T00:52:34.357Z"
  },
  "latest": {
-  "version": "1.2.26",
-  "notes": "Mac: CropDog is now signed and notarized by Apple, so it opens without security warnings.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.26/CropDog-1.2.26-mac-arm64.zip",
-  "size": 160132672,
-  "sha256": "171b7315a1008b569c7c303adf680888f395352dcbd7ade3a0fdd83f870c6ef3",
-  "published": "2026-10-29T19:05:52.669Z"
+  "version": "1.2.27",
+  "notes": "Small internal update; no change to how CropDog works.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.27/CropDog-1.2.27-mac-arm64.zip",
+  "size": 160135556,
+  "sha256": "677f9f9ab9b0ab42c8f6f3390a6c8315f77fb0de35bc82a725e14887447309be",
+  "published": "2026-10-29T19:31:36.613Z"
  },
  "latestWinInstaller": {
   "version": "1.2.26",

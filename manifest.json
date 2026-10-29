@@ -8,12 +8,12 @@
   "published": "2026-10-29T23:00:22.919Z"
  },
  "latest": {
-  "version": "1.2.28",
-  "notes": "Each login now works on one computer at a time. Settings is simpler, and adding staff is one click.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.28/CropDog-1.2.28-mac-arm64.zip",
-  "size": 160161560,
-  "sha256": "1876f744d7e9fa59b350c31f3f4a38c8079d7482b73c702996de9ea91d0ccef3",
-  "published": "2026-10-29T22:59:49.346Z"
+  "version": "1.2.29",
+  "notes": "Clearer, simpler wording throughout.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.29/CropDog-1.2.29-mac-arm64.zip",
+  "size": 160162097,
+  "sha256": "79c4ddfcabdd5e880b067284d8fd491e48c8845d8c98becfb483b5c9bf4cad06",
+  "published": "2026-10-29T23:24:05.079Z"
  },
  "latestWinInstaller": {
   "version": "1.2.28",

@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.28",
-  "notes": "Each login now works on one computer at a time. Settings is simpler, and adding staff is one click.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.28-win/CropDog-1.2.28-win-x64.zip",
-  "size": 189887528,
-  "sha256": "dba2a7421587e2aed8890243f987c71d9ebc09b268e028c4a37c22be9cfdd273",
-  "published": "2026-10-29T23:00:22.919Z"
+  "version": "1.2.29",
+  "notes": "Clearer, simpler wording throughout.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.29-win/CropDog-1.2.29-win-x64.zip",
+  "size": 189888314,
+  "sha256": "3b8aef52aea50feaf44ad12b3791085a4ced6706f6615c3f395f9eab47fad2e2",
+  "published": "2026-10-29T23:24:51.058Z"
  },
  "latest": {
   "version": "1.2.29",
@@ -16,10 +16,10 @@
   "published": "2026-10-29T23:24:05.079Z"
  },
  "latestWinInstaller": {
-  "version": "1.2.28",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.28-win/CropDog-Setup-1.2.28.exe",
-  "size": 132150608,
-  "sha256": "b4ebbee837d7738573dd18c310652adf039d73f7e2b811ccd38fb8ba7f29eb35",
-  "published": "2026-10-29T23:00:22.919Z"
+  "version": "1.2.29",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.29-win/CropDog-Setup-1.2.29.exe",
+  "size": 132156592,
+  "sha256": "379d3de95ca85d672e5711e8577f39193b03a810b98fae10393682150cff69fb",
+  "published": "2026-10-29T23:24:51.058Z"
  }
 }

@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.26",
-  "notes": "Windows: uses the graphics chip on Core Ultra laptops again, and switches to the processor by itself if graphics fail.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.26-win/CropDog-1.2.26-win-x64.zip",
-  "size": 189864618,
-  "sha256": "64f6814383290d90119a8091593b83772494758af4836dbe62f22c8e8612802c",
-  "published": "2026-10-29T00:52:34.357Z"
+  "version": "1.2.27",
+  "notes": "Small internal update; no change to how CropDog works.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.27-win/CropDog-1.2.27-win-x64.zip",
+  "size": 189867588,
+  "sha256": "dbfcec974517c34e962d9dbed12daa529f024d708ac6deafaca66491bb0bbe29",
+  "published": "2026-10-29T19:32:24.647Z"
  },
  "latest": {
   "version": "1.2.27",
@@ -16,10 +16,10 @@
   "published": "2026-10-29T19:31:36.613Z"
  },
  "latestWinInstaller": {
-  "version": "1.2.26",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.26-win/CropDog-Setup-1.2.26.exe",
-  "size": 132162240,
-  "sha256": "67737bbcc6a88c9f5f706400ddbe015368836cd077eb1c725618757fb318a23b",
-  "published": "2026-10-29T00:52:34.357Z"
+  "version": "1.2.27",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.27-win/CropDog-Setup-1.2.27.exe",
+  "size": 132155776,
+  "sha256": "2b499c5dd860c6b7a84381e03b7203c29074c5d129e76a2b286950c7efac45ac",
+  "published": "2026-10-29T19:32:24.647Z"
  }
 }

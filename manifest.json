@@ -8,12 +8,12 @@
   "published": "2026-10-29T23:24:51.058Z"
  },
  "latest": {
-  "version": "1.2.29",
-  "notes": "Clearer, simpler wording throughout.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.29/CropDog-1.2.29-mac-arm64.zip",
-  "size": 160162097,
-  "sha256": "79c4ddfcabdd5e880b067284d8fd491e48c8845d8c98becfb483b5c9bf4cad06",
-  "published": "2026-10-29T23:24:05.079Z"
+  "version": "1.2.30",
+  "notes": "See each photo get cropped as it happens.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.30/CropDog-1.2.30-mac-arm64.zip",
+  "size": 160175945,
+  "sha256": "5d891d8108c8b09815093ab32c4feba851d0f7c2d9a203c1f9e753f33c9787a0",
+  "published": "2026-10-30T16:45:05.741Z"
  },
  "latestWinInstaller": {
   "version": "1.2.29",

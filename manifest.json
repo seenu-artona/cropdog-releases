@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.30",
-  "notes": "See each photo get cropped as it happens.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.30-win/CropDog-1.2.30-win-x64.zip",
-  "size": 189901052,
-  "sha256": "4c20a372abc142fe45b6ddb33d10c2ca944e3599cdcd76a1339ebfeb15ba7f23",
-  "published": "2026-10-30T16:45:56.922Z"
+  "version": "1.2.31",
+  "notes": "New: choose how much space CropDog leaves around each person: Tight, Standard, Roomy or Loose. Plus a fix for a rare startup error.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.31-win/CropDog-1.2.31-win-x64.zip",
+  "size": 189947099,
+  "sha256": "1bbae9b464392c941f85ea907c74da1610cb747a8f7163d6b0047ac8c62279bf",
+  "published": "2026-11-03T17:43:17.455Z"
  },
  "latest": {
   "version": "1.2.31",
@@ -16,10 +16,10 @@
   "published": "2026-11-03T17:41:24.142Z"
  },
  "latestWinInstaller": {
-  "version": "1.2.30",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.30-win/CropDog-Setup-1.2.30.exe",
-  "size": 132160456,
-  "sha256": "3f9dcbea35ff8a46c6fe6da34489627ebcb40626c29ad39579990fb80e2eb1e4",
-  "published": "2026-10-30T16:45:56.922Z"
+  "version": "1.2.31",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.31-win/CropDog-Setup-1.2.31.exe",
+  "size": 132204160,
+  "sha256": "ed8a6279682866dd3cdce7943165f7ba3598d342ebb4a6b0aa7375bc24ef2893",
+  "published": "2026-11-03T17:43:17.455Z"
  }
 }

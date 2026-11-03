@@ -8,12 +8,12 @@
   "published": "2026-10-30T16:45:56.922Z"
  },
  "latest": {
-  "version": "1.2.30",
-  "notes": "See each photo get cropped as it happens.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.30/CropDog-1.2.30-mac-arm64.zip",
-  "size": 160175945,
-  "sha256": "5d891d8108c8b09815093ab32c4feba851d0f7c2d9a203c1f9e753f33c9787a0",
-  "published": "2026-10-30T16:45:05.741Z"
+  "version": "1.2.31",
+  "notes": "New: choose how much space CropDog leaves around each person: Tight, Standard, Roomy or Loose. Plus a fix for a rare startup error.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.31/CropDog-1.2.31-mac-arm64.zip",
+  "size": 160229924,
+  "sha256": "4ff02e2ca721e946570dfc4873e4d138d65507e6801f563aaf0b42270186efc9",
+  "published": "2026-11-03T17:41:24.142Z"
  },
  "latestWinInstaller": {
   "version": "1.2.30",

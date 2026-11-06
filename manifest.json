@@ -8,12 +8,12 @@
   "published": "2026-11-04T04:10:38.125Z"
  },
  "latest": {
-  "version": "1.2.32",
-  "notes": "Stay on backdrop now finds the paper edge more reliably and keeps more of each person. Straighten keeps people centred.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.32/CropDog-1.2.32-mac-arm64.zip",
-  "size": 160234411,
-  "sha256": "37bebd823b6a9c63ddc9c2f951d25aa7c97fe648b206da2da19b3d9c8e3e1f67",
-  "published": "2026-11-04T03:54:40.760Z"
+  "version": "1.2.33",
+  "notes": "Updates on Macs without admin rights now ask for an administrator password instead of failing.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.33/CropDog-1.2.33-mac-arm64.zip",
+  "size": 160242930,
+  "sha256": "77915c020d11f16b4f9c58cd4d061e61460bbaef49b5ed6e416b455c656f8c58",
+  "published": "2026-11-06T00:41:19.582Z"
  },
  "latestWinInstaller": {
   "version": "1.2.32",

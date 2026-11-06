@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.32",
-  "notes": "Stay on backdrop now finds the paper edge more reliably and keeps more of each person. Straighten keeps people centred.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.32-win/CropDog-1.2.32-win-x64.zip",
-  "size": 189951723,
-  "sha256": "48b51716f312c0cbd63adcd300cf6d4e5b797fdf86a2837d6db8aab43c7324d2",
-  "published": "2026-11-04T04:10:38.125Z"
+  "version": "1.2.33",
+  "notes": "Updates on Macs without admin rights now ask for an administrator password instead of failing.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.33-win/CropDog-1.2.33-win-x64.zip",
+  "size": 189958765,
+  "sha256": "e3c14120e446d39796f3e31b67d7c3e0e8881519eb92d09e1b4f76d644b44cdf",
+  "published": "2026-11-06T00:43:24.131Z"
  },
  "latest": {
   "version": "1.2.33",
@@ -16,10 +16,10 @@
   "published": "2026-11-06T00:41:19.582Z"
  },
  "latestWinInstaller": {
-  "version": "1.2.32",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.32-win/CropDog-Setup-1.2.32.exe",
-  "size": 132205728,
-  "sha256": "513b439e5cc233a77e4f5ddb475ed1afd9004e90e6e9786125825d8a557aca81",
-  "published": "2026-11-04T04:10:38.125Z"
+  "version": "1.2.33",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.33-win/CropDog-Setup-1.2.33.exe",
+  "size": 132210112,
+  "sha256": "cc45462f9625057131ade13809591bae4b141ecdd6fef78c05ebffb019662f4f",
+  "published": "2026-11-06T00:43:24.131Z"
  }
 }

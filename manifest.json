@@ -8,12 +8,12 @@
   "published": "2026-11-06T00:43:24.131Z"
  },
  "latest": {
-  "version": "1.2.33",
-  "notes": "Updates on Macs without admin rights now ask for an administrator password instead of failing.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.33/CropDog-1.2.33-mac-arm64.zip",
-  "size": 160242930,
-  "sha256": "77915c020d11f16b4f9c58cd4d061e61460bbaef49b5ed6e416b455c656f8c58",
-  "published": "2026-11-06T00:41:19.582Z"
+  "version": "1.2.34",
+  "notes": "Faster cropping. Better crops when the camera cut the feet or socks: just below the knee. Framing now also sets the space below the knee.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.34/CropDog-1.2.34-mac-arm64.zip",
+  "size": 160250564,
+  "sha256": "e357687e56ae5521a3bf246a52a55ba91e6491a5ddfd0476668a890bcda0f41c",
+  "published": "2026-11-07T19:40:34.751Z"
  },
  "latestWinInstaller": {
   "version": "1.2.33",

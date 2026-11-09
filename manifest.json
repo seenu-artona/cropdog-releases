@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.34",
-  "notes": "Faster cropping. Better crops when the camera cut the feet or socks: just below the knee. Framing now also sets the space below the knee.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.34-win/CropDog-1.2.34-win-x64.zip",
-  "size": 189966495,
-  "sha256": "4ff2efb36abf8e456a2dfb0357de728f8d0fc17b64ff7e6bf8969c7269084cf3",
-  "published": "2026-11-07T19:42:54.568Z"
+  "version": "1.2.35",
+  "notes": "Level now works on backdrops with straight lines, like gym nets and bookshelves, and is faster there. Tight groups keep everyone in frame.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.35-win/CropDog-1.2.35-win-x64.zip",
+  "size": 189967882,
+  "sha256": "3ad8021ca35c3a9eecadcbeace05f8d1f77bd0508e84e3d887f9665c4c50304e",
+  "published": "2026-11-09T19:36:50.811Z"
  },
  "latest": {
   "version": "1.2.35",
@@ -16,10 +16,10 @@
   "published": "2026-11-09T19:32:52.898Z"
  },
  "latestWinInstaller": {
-  "version": "1.2.34",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.34-win/CropDog-Setup-1.2.34.exe",
-  "size": 132203248,
-  "sha256": "9d5bed900e9ae796687c3f9984972876bc14e84012fbe0b95770a9fa45291a95",
-  "published": "2026-11-07T19:42:54.568Z"
+  "version": "1.2.35",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.35-win/CropDog-Setup-1.2.35.exe",
+  "size": 132204400,
+  "sha256": "155b4a1378adcb8034a1142e72e7635e97713ce1ba00c5d1d6be163858c7975e",
+  "published": "2026-11-09T19:36:50.811Z"
  }
 }

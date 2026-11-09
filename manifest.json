@@ -8,12 +8,12 @@
   "published": "2026-11-07T19:42:54.568Z"
  },
  "latest": {
-  "version": "1.2.34",
-  "notes": "Faster cropping. Better crops when the camera cut the feet or socks: just below the knee. Framing now also sets the space below the knee.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.34/CropDog-1.2.34-mac-arm64.zip",
-  "size": 160250564,
-  "sha256": "e357687e56ae5521a3bf246a52a55ba91e6491a5ddfd0476668a890bcda0f41c",
-  "published": "2026-11-07T19:40:34.751Z"
+  "version": "1.2.35",
+  "notes": "Level now works on backdrops with straight lines, like gym nets and bookshelves, and is faster there. Tight groups keep everyone in frame.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.35/CropDog-1.2.35-mac-arm64.zip",
+  "size": 160251748,
+  "sha256": "0c694e9d226a2bc3a8736bcd86276f2c5ec2f71e40f9cf7e02a40865d6edf8d4",
+  "published": "2026-11-09T19:32:52.898Z"
  },
  "latestWinInstaller": {
   "version": "1.2.34",

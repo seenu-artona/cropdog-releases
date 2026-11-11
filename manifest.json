@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.35",
-  "notes": "Level now works on backdrops with straight lines, like gym nets and bookshelves, and is faster there. Tight groups keep everyone in frame.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.35-win/CropDog-1.2.35-win-x64.zip",
-  "size": 189967882,
-  "sha256": "3ad8021ca35c3a9eecadcbeace05f8d1f77bd0508e84e3d887f9665c4c50304e",
-  "published": "2026-11-09T19:36:50.811Z"
+  "version": "1.2.36",
+  "notes": "Simpler options: one Level switch, Crop again redoes every photo, hand edits are always kept. Fits small screens.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.36-win/CropDog-1.2.36-win-x64.zip",
+  "size": 189968692,
+  "sha256": "bea3f486a25a1a4293336d1f6dbb6278b067d2e521be4640973bfbfb83ff5d38",
+  "published": "2026-11-11T19:58:03.237Z"
  },
  "latest": {
   "version": "1.2.36",
@@ -16,10 +16,10 @@
   "published": "2026-11-11T19:41:27.595Z"
  },
  "latestWinInstaller": {
-  "version": "1.2.35",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.35-win/CropDog-Setup-1.2.35.exe",
-  "size": 132204400,
-  "sha256": "155b4a1378adcb8034a1142e72e7635e97713ce1ba00c5d1d6be163858c7975e",
-  "published": "2026-11-09T19:36:50.811Z"
+  "version": "1.2.36",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.36-win/CropDog-Setup-1.2.36.exe",
+  "size": 132219384,
+  "sha256": "461420d06293809afe1ae2524e3065b73ef644a5333d72f909efd8f2a726a3e3",
+  "published": "2026-11-11T19:58:03.237Z"
  }
 }

@@ -8,12 +8,12 @@
   "published": "2026-11-09T19:36:50.811Z"
  },
  "latest": {
-  "version": "1.2.35",
-  "notes": "Level now works on backdrops with straight lines, like gym nets and bookshelves, and is faster there. Tight groups keep everyone in frame.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.35/CropDog-1.2.35-mac-arm64.zip",
-  "size": 160251748,
-  "sha256": "0c694e9d226a2bc3a8736bcd86276f2c5ec2f71e40f9cf7e02a40865d6edf8d4",
-  "published": "2026-11-09T19:32:52.898Z"
+  "version": "1.2.36",
+  "notes": "Simpler options: one Level switch, Crop again redoes every photo, hand edits are always kept. Fits small screens.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.36/CropDog-1.2.36-mac-arm64.zip",
+  "size": 160254095,
+  "sha256": "366d17b1feedbda1aba69dac42b61aed4446b5cc09257849562efb3191b168d0",
+  "published": "2026-11-11T19:41:27.595Z"
  },
  "latestWinInstaller": {
   "version": "1.2.35",

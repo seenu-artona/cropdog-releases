@@ -8,12 +8,12 @@
   "published": "2026-11-11T19:58:03.237Z"
  },
  "latest": {
-  "version": "1.2.36",
-  "notes": "Simpler options: one Level switch, Crop again redoes every photo, hand edits are always kept. Fits small screens.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.36/CropDog-1.2.36-mac-arm64.zip",
-  "size": 160254095,
-  "sha256": "366d17b1feedbda1aba69dac42b61aed4446b5cc09257849562efb3191b168d0",
-  "published": "2026-11-11T19:41:27.595Z"
+  "version": "1.2.37",
+  "notes": "Crops now stop exactly at the backdrop edge. Your crop settings are shared across your studio's computers.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.37/CropDog-1.2.37-mac-arm64.zip",
+  "size": 160264809,
+  "sha256": "f576670d826bcdfd5417668145a3146ad230666e281bef6ea194ab3aa52418c7",
+  "published": "2026-11-20T20:49:08.286Z"
  },
  "latestWinInstaller": {
   "version": "1.2.36",

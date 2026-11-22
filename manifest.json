@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.37",
-  "notes": "Crops now stop exactly at the backdrop edge. Your crop settings are shared across your studio's computers.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.37-win/CropDog-1.2.37-win-x64.zip",
-  "size": 189979626,
-  "sha256": "d80ea116dcab68eca3ce8abadf09e5a06c260e00809bd1da12c38dbd2c9daa25",
-  "published": "2026-11-20T20:58:38.490Z"
+  "version": "1.2.38",
+  "notes": "Your crop settings now follow you, not your studio.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.38-win/CropDog-1.2.38-win-x64.zip",
+  "size": 189979390,
+  "sha256": "ba0e21bf4d4a059758abb3d8697d407f7c99ab4aabedb55a7d2148c6bd007783",
+  "published": "2026-11-22T02:12:17.688Z"
  },
  "latest": {
   "version": "1.2.38",
@@ -16,10 +16,10 @@
   "published": "2026-11-22T02:04:09.002Z"
  },
  "latestWinInstaller": {
-  "version": "1.2.37",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.37-win/CropDog-Setup-1.2.37.exe",
-  "size": 132219392,
-  "sha256": "1ff6b5a978a1ddab2d217aa3007b1850664695c194e93b6525d7070e048c80cf",
-  "published": "2026-11-20T20:58:38.490Z"
+  "version": "1.2.38",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.38-win/CropDog-Setup-1.2.38.exe",
+  "size": 132209512,
+  "sha256": "b7a82450a52bf568cc32d8de6d8423a265c2837dfb6204ebfe089f3deaec5b53",
+  "published": "2026-11-22T02:12:17.688Z"
  }
 }

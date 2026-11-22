@@ -8,12 +8,12 @@
   "published": "2026-11-20T20:58:38.490Z"
  },
  "latest": {
-  "version": "1.2.37",
-  "notes": "Crops now stop exactly at the backdrop edge. Your crop settings are shared across your studio's computers.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.37/CropDog-1.2.37-mac-arm64.zip",
-  "size": 160264809,
-  "sha256": "f576670d826bcdfd5417668145a3146ad230666e281bef6ea194ab3aa52418c7",
-  "published": "2026-11-20T20:49:08.286Z"
+  "version": "1.2.38",
+  "notes": "Your crop settings now follow you, not your studio.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.38/CropDog-1.2.38-mac-arm64.zip",
+  "size": 160264856,
+  "sha256": "ae1f3afabff55e77e3e511dc51b21d5ba8f60198717c4151b81aa1355ef72c43",
+  "published": "2026-11-22T02:04:09.002Z"
  },
  "latestWinInstaller": {
   "version": "1.2.37",

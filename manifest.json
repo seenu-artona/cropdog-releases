@@ -8,12 +8,12 @@
   "published": "2026-11-22T02:12:17.688Z"
  },
  "latest": {
-  "version": "1.2.38",
-  "notes": "Your crop settings now follow you, not your studio.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.38/CropDog-1.2.38-mac-arm64.zip",
-  "size": 160264856,
-  "sha256": "ae1f3afabff55e77e3e511dc51b21d5ba8f60198717c4151b81aa1355ef72c43",
-  "published": "2026-11-22T02:04:09.002Z"
+  "version": "1.2.39",
+  "notes": "Fixed: resizing from a top corner no longer washes out the photo.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.39/CropDog-1.2.39-mac-arm64.zip",
+  "size": 160270266,
+  "sha256": "90a669e8ef75e28fa96c2f9288da55ab395adf3b04de1641dd571bd6601be829",
+  "published": "2026-11-22T06:22:20.803Z"
  },
  "latestWinInstaller": {
   "version": "1.2.38",

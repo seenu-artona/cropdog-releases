@@ -1,11 +1,11 @@
 {
  "latestWin": {
-  "version": "1.2.38",
-  "notes": "Your crop settings now follow you, not your studio.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.38-win/CropDog-1.2.38-win-x64.zip",
-  "size": 189979390,
-  "sha256": "ba0e21bf4d4a059758abb3d8697d407f7c99ab4aabedb55a7d2148c6bd007783",
-  "published": "2026-11-22T02:12:17.688Z"
+  "version": "1.2.39",
+  "notes": "Fixed: resizing from a top corner no longer washes out the photo.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.39-win/CropDog-1.2.39-win-x64.zip",
+  "size": 189984307,
+  "sha256": "ac1c5477b6e12512ca9140ae4ecb819c8eb9be576f3c5d249ba438c1cfa50204",
+  "published": "2026-11-22T06:34:06.814Z"
  },
  "latest": {
   "version": "1.2.39",
@@ -16,10 +16,10 @@
   "published": "2026-11-22T06:22:20.803Z"
  },
  "latestWinInstaller": {
-  "version": "1.2.38",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.38-win/CropDog-Setup-1.2.38.exe",
-  "size": 132209512,
-  "sha256": "b7a82450a52bf568cc32d8de6d8423a265c2837dfb6204ebfe089f3deaec5b53",
-  "published": "2026-11-22T02:12:17.688Z"
+  "version": "1.2.39",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/desktop-v1.2.39-win/CropDog-Setup-1.2.39.exe",
+  "size": 132220656,
+  "sha256": "5d6d58e32de3ce848d79d7f127c97ffa2b881f9bbf707866527f6b54abe75bac",
+  "published": "2026-11-22T06:34:06.814Z"
  }
 }

@@ -8,12 +8,12 @@
   "published": "2026-11-23T06:38:44.305Z"
  },
  "latest": {
-  "version": "1.2.41",
-  "notes": "Fixed: the crop box can be dragged along the photo's edge on straightened photos.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.41/CropDog-1.2.41-mac-arm64.zip",
-  "size": 160265394,
-  "sha256": "09e8a9e0eaf8dd2056b4eaad0e845869b003f547ed4e115d3d5749ce40598ff0",
-  "published": "2026-11-23T23:25:49.471Z"
+  "version": "1.2.40",
+  "notes": "Bigger photo when reviewing: the screen around it is slimmer.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.40/CropDog-1.2.40-mac-arm64.zip",
+  "size": 160265008,
+  "sha256": "c95a98c9651f91386b5985fe3d00b2c37514a369254307a00e56c5d6103e67df",
+  "published": "2026-11-23T06:20:24.202Z"
  },
  "latestWinInstaller": {
   "version": "1.2.40",

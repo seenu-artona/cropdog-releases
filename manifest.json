@@ -8,12 +8,12 @@
   "published": "2026-11-22T06:34:06.814Z"
  },
  "latest": {
-  "version": "1.2.39",
-  "notes": "Fixed: resizing from a top corner no longer washes out the photo.",
-  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.39/CropDog-1.2.39-mac-arm64.zip",
-  "size": 160270266,
-  "sha256": "90a669e8ef75e28fa96c2f9288da55ab395adf3b04de1641dd571bd6601be829",
-  "published": "2026-11-22T06:22:20.803Z"
+  "version": "1.2.40",
+  "notes": "Bigger photo when reviewing: the screen around it is slimmer.",
+  "url": "https://github.com/seenu-artona/cropdog-releases/releases/download/v1.2.40/CropDog-1.2.40-mac-arm64.zip",
+  "size": 160265008,
+  "sha256": "c95a98c9651f91386b5985fe3d00b2c37514a369254307a00e56c5d6103e67df",
+  "published": "2026-11-23T06:20:24.202Z"
  },
  "latestWinInstaller": {
   "version": "1.2.39",
